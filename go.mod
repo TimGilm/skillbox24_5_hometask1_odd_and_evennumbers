@@ -1,0 +1,3 @@
+module skillbox24_5_hometask1_odd_and_evennumbers
+
+go 1.21
